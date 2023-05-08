@@ -1,0 +1,35 @@
+[
+    {
+    "description": "skift elmåler",
+    "date": "2023-03-09 09:00",
+    "duration": 3
+    },
+    {"description": "Installer elmåler",
+    "date": "2023-03-09 12:00",
+    "duration": 2
+    },
+    {"description": "Kontrol af elmåler",
+    "date": "2023-03-09 14:00",
+    "duration": 1
+    },
+    {"description": "skift elmåler",
+    "date": "2023-03-09 14:00",
+    "duration": 2
+    },
+    {"description": "Kontrol af elmåler",
+    "date": "2023-03-10 08:00",
+    "duration": 1
+    },
+    {"description": "Installer elmåler",
+    "date": "2023-03-10 09:00",
+    "duration": 2
+    },
+    {"description": "Installer elmåler",
+    "date": "2023-03-10 11:00",
+    "duration": 2
+    },
+    {"description": "Skift elmåler",
+    "date": "2023-03-10 13:00",
+    "duration": 3
+    }
+]
